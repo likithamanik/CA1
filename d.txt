@@ -5,5 +5,8 @@ printf("sum %d\n");
 printf("difference %d\n")
 printf("product %d\n")
 printf("divide %d\n")
+
+printf("exp %d\n"
+)
 return 0;
 }
